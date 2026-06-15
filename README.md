@@ -17,7 +17,7 @@ I love translating biological sequences into meaningful insights using code.
 *   **Programming & Tools:** Python, Pandas, Matplotlib. I am actively learning and practicing **Biopython**.
 *   **Sequence Analysis:** Using NCBI BLAST and FinchTV.
 *   **Current Practice:** Analyzing multiple Fasta files, processing BLAST tables, and visualizing biological data using Python.
-*   - **My Portfolio Projects:** [Proteomics Data Visualization](https://github.com/AytenHarman07/Proteomics-Data-Visualization)
+*   **My Portfolio Projects:** [Proteomics Data Visualization](https://github.com/AytenHarman07/Proteomics-Data-Visualization)
 
 ### 🌱 Currently Working On
 *   Preparing for my Master's Degree in Medical Biology, focusing on **Proteomics**.
