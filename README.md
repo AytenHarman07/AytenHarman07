@@ -18,8 +18,8 @@ I love translating biological sequences into meaningful insights using code.
 *   **Sequence Analysis:** Using NCBI BLAST and FinchTV.
 *   **Current Practice:** Analyzing multiple Fasta files, processing BLAST tables, and visualizing biological data using Python.
 * 🧬 My Bioinformatics Portfolio
- [Proteomics Data Visualization](Proteomics_Data_Visualization.ipynb)
- [Bioinformatics Pipeline Analysis](Bioinformatics_Pipeline_Analysis.ipynb)
+*[Proteomics Data Visualization](Proteomics_Data_Visualization.ipynb)
+*[Bioinformatics Pipeline Analysis](Bioinformatics_Pipeline_Analysis.ipynb)
 
 ### 🌱 Currently Working On
 *   Preparing for my Master's Degree in Medical Biology, focusing on **Proteomics**.
