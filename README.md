@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Ayten! 👋 🧬
+### Biologist | 2nd Ranked Graduate | Bioinformatics Enthusiast
 
-<!--
-**AytenHarman07/AytenHarman07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My biggest passion is understanding molecular mechanisms deep within the cell and analyzing complex biological data. I aim to combine my wet-lab experience with computational bioinformatics to make a difference in medical biology and proteomics.
 
-Here are some ideas to get you started:
+### 🔬 Projects & Academic Achievements
+*   **TÜBİTAK 2209-A Project:** Conducted research on the "Phylogenetic analysis of pathogenic microfungi on *Humulus lupulus*" (Project accepted and currently in the reporting stage).
+*   **Academic Rank:** Graduated as the **2nd highest-ranking student** in the Biology department.
+*   **Awards & Presentations:** Won **1st place** for my poster presentation at my university. Also, I delivered an oral presentation of my research at the Eskişehir Symposium.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Wet-Lab Skills
+I have strong hands-on experience in the laboratory, from planning projects to execution and writing reports.
+*   **Techniques:** Microorganism Cultivation, DNA Isolation, PCR, Gel Electrophoresis, Nanodrop and TLC.
+
+### 💻 Bioinformatics & Data Analysis
+I love translating biological sequences into meaningful insights using code.
+*   **Programming & Tools:** Python, Pandas, Matplotlib. I am actively learning and practicing **Biopython**.
+*   **Sequence Analysis:** Using NCBI BLAST and FinchTV.
+*   **Current Practice:** Analyzing multiple Fasta files, processing BLAST tables, and visualizing biological data using Python.
+
+### 🌱 Currently Working On
+*   Preparing for my Master's Degree in Medical Biology, focusing on **Proteomics**.
+*   Creating data visualization projects with sample biological datasets.
+
+📫 **How to reach me:** harmanayten07@gmail.com
