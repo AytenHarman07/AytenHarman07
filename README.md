@@ -32,7 +32,7 @@ This repository contains a Python-based bioinformatics pipeline that simulates t
 * **Accurate Termination:** Utilizes the `to_stop=True` parameter to halt translation at the exact biological Stop Codon, preventing artifact generation.
 
 
-  ## 🧬 Module: Clinical Mutation Hunter (Sequence Alignment)
+  ## 🧬Clinical Mutation Hunter (Sequence Alignment)
 👉 [Clinical Mutation Hunter Notebook](https://github.com/AytenHarman07/AytenHarman07/blob/main/klinik_mutasyon_avcisi.ipynb) 
 As an extension of the Central Dogma pipeline, this repository now includes a custom **Point Mutation Detection** module. 
 
