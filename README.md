@@ -23,7 +23,8 @@ I love translating biological sequences into meaningful insights using code.
 
 # 🧬 Central Dogma Simulator: Smart Ribosome Edition
 
-This repository contains a Python-based bioinformatics pipeline that simulates the Central Dogma of Molecular Biology. It demonstrates automated biological data retrieval and biologically accurate computational translation.
+This repository contains a Python-based bioinformatics pipeline that simulates the Central Dogma of Molecular Biology. It demonstrates automated biological data retrieval and biologically accurate computational translation. 
+👉 [View Central Dogma Simulator Notebook](https://github.com/AytenHarman07/AytenHarman07/blob/main/Central_Dogma_Simulator.ipynb)
 
 ## 🚀 Key Features
 * **Automated NCBI Fetching:** Directly connects to the NCBI Nucleotide database via `Bio.Entrez` to download real-world FASTA files (e.g., Human TP53 gene) without manual intervention.
