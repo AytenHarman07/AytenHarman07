@@ -32,6 +32,15 @@ This repository contains a Python-based bioinformatics pipeline that simulates t
 * **Accurate Termination:** Utilizes the `to_stop=True` parameter to halt translation at the exact biological Stop Codon, preventing artifact generation.
 
 
+  ## 🧬 Module: Clinical Mutation Hunter (Sequence Alignment)
+👉 [Clinical Mutation Hunter Notebook](https://github.com/AytenHarman07/AytenHarman07/blob/main/klinik_mutasyon_avcisi.ipynb) 
+As an extension of the Central Dogma pipeline, this repository now includes a custom **Point Mutation Detection** module. 
+
+* **Clinical Simulation:** Fetches the healthy Human TP53 reference gene (2500+ bp) directly from NCBI and computationally simulates a carcinogenic point mutation (G -> T substitution).
+* **Digital Sequence Alignment:** Iterates through the entire genomic sequence nucleotide by nucleotide, automatically detecting and reporting the exact coordinate of the divergence without manual visual inspection.
+* **Bilingual Approach:** The core logic and codebase are written with Turkish documentation to reflect deep conceptual understanding, while the repository structure maintains global standards.
+
+
 ### 🌱 Currently Working On
 *   Preparing for my Master's Degree in Medical Biology, focusing on **Proteomics**.
 *   Creating data visualization projects with sample biological datasets.
