@@ -21,6 +21,16 @@ I love translating biological sequences into meaningful insights using code.
 *[Proteomics Data Visualization](Proteomics_Data_Visualization.ipynb)
 *[Bioinformatics Pipeline Analysis](Bioinformatics_Pipeline_Analysis.ipynb)
 
+# 🧬 Central Dogma Simulator: Smart Ribosome Edition
+
+This repository contains a Python-based bioinformatics pipeline that simulates the Central Dogma of Molecular Biology. It demonstrates automated biological data retrieval and biologically accurate computational translation.
+
+## 🚀 Key Features
+* **Automated NCBI Fetching:** Directly connects to the NCBI Nucleotide database via `Bio.Entrez` to download real-world FASTA files (e.g., Human TP53 gene) without manual intervention.
+* **Smart Ribosome Logic:** Unlike naive translation scripts, this code scans the mRNA for the canonical Start Codon (`AUG`) to bypass the 5' UTR and establishes the correct reading frame.
+* **Accurate Termination:** Utilizes the `to_stop=True` parameter to halt translation at the exact biological Stop Codon, preventing artifact generation.
+
+
 ### 🌱 Currently Working On
 *   Preparing for my Master's Degree in Medical Biology, focusing on **Proteomics**.
 *   Creating data visualization projects with sample biological datasets.
