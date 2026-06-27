@@ -6,7 +6,7 @@ My biggest passion is understanding molecular mechanisms deep within the cell an
 
 ###  Projects & Academic Achievements
 *   **TÜBİTAK 2209-A Project:** Conducted research on the "Phylogenetic analysis of pathogenic microfungi on *Humulus lupulus*" (Project accepted and currently in the reporting stage).
-*   **Academic Rank: Graduated as the 2nd highest-ranking student in the Biology department at Eskişehir Technical University (ESTU)
+*   Academic Rank: Graduated as the 2nd highest-ranking student in the Biology department at Eskişehir Technical University (ESTU)
 *   **Awards & Presentations:** Won **1st place** for my poster presentation at my university. Also, I delivered an oral presentation of my research at the Eskişehir Symposium.
 
 ### Wet-Lab Skills
