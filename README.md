@@ -40,6 +40,27 @@ As an extension of the Central Dogma pipeline, this repository now includes a cu
 * **Digital Sequence Alignment:** Iterates through the entire genomic sequence nucleotide by nucleotide, automatically detecting and reporting the exact coordinate of the divergence without manual visual inspection.
 * **Bilingual Approach:** The core logic and codebase are written with Turkish documentation to reflect deep conceptual understanding, while the repository structure maintains global standards.
 
+  # 🧬 Statistical Analysis of Cell Migration (ANOVA & Tukey HSD)
+
+This repository contains a Python script to analyze laboratory data. Specifically, it looks at how different doses of a drug (meclofenamic acid) stop the migration (movement) of LNCaP prostate cancer cells.
+
+## 📚 Reference Paper
+The biological concept and the data structure used in this script are inspired by this study:
+> **Kanli, A., & Yanar, S. (2022).** *The Effect of Meclofenamic Acid on the Invasion and Migration of LNCaP Prostate Carcinoma Cells.* Acta Medica Nicomedia, 5(3), 143-147. DOI: [10.53446/actamednicomedia.1166837](https://doi.org/10.53446/actamednicomedia.1166837)
+
+## 🧪 What Are These Tests and Why Do We Use Them?
+When we do an experiment in the lab, we need to prove that our results are mathematically real, not just a coincidence. We use two main tests in this code:
+
+*   **1. One-Way ANOVA:** This test asks the big question: *"Did changing the drug doses make any significant difference overall?"* It looks at all the groups together.
+*   **2. Tukey HSD (Post-Hoc):** If ANOVA says "Yes, there is a difference," Tukey steps in to ask: *"Okay, but exactly WHICH groups are different from each other?"* (For example, is the 60 µM dose different from the Control group? Is 80 µM different from 60 µM?)
+
+## 📊 How to Interpret the Results?
+When you run the Python code, you will see some numbers printed on your screen. Here is how to read them simply:
+
+*   **P-value (from ANOVA):** If this number is very small (less than `0.05`), it is great news! It means the drug really works, and the difference in cell migration is scientifically significant. 
+*   **Reject = True (from Tukey table):** In the Tukey results table, if you see `True` under the `reject` column, it means we *reject* the idea that the two compared groups are the same. It proves that the specific drug dose successfully and significantly changed the cell behavior compared to the other group.
+*   **The Boxplot:** The code also draws a boxplot using the `seaborn` library. You can visually see how the cell migration percentage physically drops when the drug dose increases!
+
 
 ### 🌱 Currently Working On
 *   Preparing for my Master's Degree in Medical Biology, focusing on **Proteomics**.
