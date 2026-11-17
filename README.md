@@ -19,6 +19,7 @@ SDS-PAGE · silver staining · FASP · Western blot · IHC
 
 ### Computational Skills
 `Python` `pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn` `Biopython` `Jupyter` `NCBI Entrez` `BLAST` `FinchTV`
+
 · Statistics: one-way ANOVA, Welch t-test, Tukey HSD, multiple-testing correction
 
 ### Contact
